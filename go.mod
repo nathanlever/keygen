@@ -1,4 +1,4 @@
-module github.com/nathanlever/urbit/keygen
+module github.com/nathanlever/keygen
 
 go 1.16
 
